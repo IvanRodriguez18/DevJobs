@@ -4,7 +4,6 @@ Sistema basado en portales para publicar ofertas de empleos, este sistema realiz
 1. Alertify JS
 2. Dropzone
 3. LightBox
-######A continuación se muestran algunos ejemplos del FrontEnd del sistema######
 - Pantalla de Inicio
 ![Imgur](https://i.imgur.com/aVknRhZ.png)
 - Inicio de Sesión
